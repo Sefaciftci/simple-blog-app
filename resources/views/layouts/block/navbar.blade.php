@@ -9,7 +9,7 @@
                         <img src="assets/images/logo-icon.png" class="logo-icon" alt="logo icon">
                     </div>
                     <div class="">
-                        <h4 class="logo-text">E-Mail Send</h4>
+                        <h4 class="logo-text">Blog</h4>
                     </div>
                 </div>
                 <div class="mobile-toggle-menu"><i class='bx bx-menu'></i></div>
